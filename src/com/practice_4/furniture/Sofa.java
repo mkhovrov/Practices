@@ -15,9 +15,6 @@ public class Sofa extends Furniture{
         this.numberOfShelves = numberOfShelves;
     }
 
-
-
-
     public void setFiller(String filler) {
         this.filler = filler;
     }
